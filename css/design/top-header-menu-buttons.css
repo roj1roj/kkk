@@ -1,0 +1,106 @@
+#display-flex{
+	display: flex;
+}
+
+#button-position{
+    margin: auto;
+}
+
+#button-distance{
+	margin: 0px 0px 0px -4px;
+}
+
+a.button-main{
+    text-decoration: none;
+}
+
+a.button-community{
+    text-decoration: none;
+}
+
+a.button-support{
+    text-decoration: none;
+}
+
+a.button-about{
+    text-decoration: none;
+}
+
+a.button-login{
+    text-decoration: none;
+}
+
+a.button-main {
+	display: inline-block;
+	background-color: #303030;
+	font-family: Nunito-SemiBold;
+    font-size: 16px;
+	color: #999999;
+	padding: 12px 20px;
+	border-radius: 0px;
+	transition: background-color 100ms;
+}
+
+a.button-main:hover{
+	background: #272727;
+}
+
+a.button-community {
+	display: inline-block;
+	background-color: #303030;
+	font-family: Nunito-SemiBold;
+    font-size: 16px;
+	color: #999999;
+	padding: 12px 20px;
+	border-radius: 0px;
+	transition: background-color 100ms;
+}
+
+a.button-community:hover{
+	background: #272727;
+}
+
+a.button-support {
+	display: inline-block;
+	background-color: #303030;
+	font-family: Nunito-SemiBold;
+    font-size: 16px;
+	color: #999999;
+	padding: 12px 20px;
+	border-radius: 0px;
+	transition: background-color 100ms;
+}
+
+a.button-support:hover{
+	background: #272727;
+}
+
+a.button-about {
+	display: inline-block;
+	background-color: #303030;
+	font-family: Nunito-SemiBold;
+    font-size: 16px;
+	color: #999999;
+	padding: 12px 20px;
+	border-radius: 0px;
+	transition: background-color 100ms;
+}
+
+a.button-about:hover{
+	background: #272727;
+}
+
+a.button-login {
+	display: inline-block;
+	background-color: #303030;
+	font-family: Nunito-SemiBold;
+    font-size: 16px;
+	color: #999999;
+	padding: 12px 20px;
+	border-radius: 0px;
+	transition: background-color 100ms;
+}
+
+a.button-login:hover{
+	background: #272727;
+}

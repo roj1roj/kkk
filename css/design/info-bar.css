@@ -1,0 +1,33 @@
+#info-bar{
+    margin: 0px -8px 0px -8px;
+    padding: 10px 0px 10px 0px;
+    background-color: #202020;
+}
+
+.text-position{
+    font-family: Nunito-Light;
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+}
+
+a{
+    text-decoration: none;
+}
+
+a.project-support{
+    font-family: Nunito-SemiBold;
+    margin: 0px 0px 0px 8px;
+}
+
+a.project-support:link{
+    color: #0f77ff;
+}
+
+a.project-support:visited{
+    color: #0f77ff;
+}
+
+a.project-support:hover {
+    color: #8c1ff1;
+}

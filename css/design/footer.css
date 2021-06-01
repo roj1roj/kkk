@@ -1,0 +1,98 @@
+#footer{
+    text-align: center;
+    margin: -16px -8px -10px -8px;
+    padding: 20px;
+    color: #ffffff;
+    font-family: Nunito-Regular;
+    font-size: 15px;
+    background-color: #303030;
+    position: relative;
+}
+
+a.a-link1:link {
+    color: #606060;
+}
+ 
+a.a-link1:visited {
+    color: #606060;
+}
+ 
+a.a-link1:hover {
+    color: #909090;
+}
+ 
+a.a-link1:active {
+    color: #606060;
+} 
+
+a.a-link2:link {
+    color: #606060;
+}
+ 
+a.a-link2:visited {
+    color: #606060;
+}
+ 
+a.a-link2:hover {
+    color: #909090;
+}
+ 
+a.a-link2:active {
+    color: #606060;
+}
+
+a.a-link3:link {
+    color: #606060;
+}
+ 
+a.a-link3:visited {
+    color: #606060;
+}
+ 
+a.a-link3:hover {
+    color: #909090;
+}
+ 
+a.a-link3:active {
+    color: #606060;
+} 
+
+a.a-link4:link {
+    color: #606060;
+}
+ 
+a.a-link4:visited {
+    color: #606060;
+}
+ 
+a.a-link4:hover {
+    color: #909090;
+}
+ 
+a.a-link4:active {
+    color: #606060;
+} 
+
+.a-link1{
+    margin: 20px;
+    text-align: center;
+    transition: color 100ms;
+}
+
+.a-link2{
+    margin: 20px;
+    text-align: center;
+    transition: color 100ms;
+}
+
+.a-link3{
+    margin: 20px;
+    text-align: center;
+    transition: color 100ms;
+}
+
+.a-link4{
+    margin: 20px;
+    text-align: center;
+    transition: color 100ms;
+}
